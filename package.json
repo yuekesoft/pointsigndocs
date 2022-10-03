@@ -1,0 +1,12 @@
+{
+  "name": "pointsigndocs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yuekesoft/pointsigndocs.git",
+  "author": "yuekesoft <1961339@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.19",
+    "vue": "^3.2.40"
+  }
+}
