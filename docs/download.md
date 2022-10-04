@@ -5,6 +5,7 @@
 * 芯烨460B打印机驱动 [点击下载](http://download.yuekesoft.com/xp460B.zip)
 * 扫描台R200驱动 [点击下载](http://download.yuekesoft.com/R200%E9%A9%B1%E5%8A%A8%E7%A8%8B%E5%BA%8Fv2.0.8.05.zip)
 * GK888t 打印机驱动下载 [点击下载](http://download.yuekesoft.com/GK888tDriver.zip)
+* 越客会员积分签到管理系统(正式版) [点击下载](http://download.yuekesoft.com/ykpointsign.zip)
 
 
 

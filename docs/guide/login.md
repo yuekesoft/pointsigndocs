@@ -1,12 +1,18 @@
 # 软件登录
 
-双击打开签到软件，登录界面如下，输入开发商客服提供的账号和密码，点击`登录`按钮。
+双击桌面`越客会员积分签到管理软件(正式版)`快捷方式，打开软件登陆界面。
 
-![image-20220920173926323](https://vuepressdocs.oss-cn-hangzhou.aliyuncs.com/docsimages/202209201739465.png)
+![image-20221004180829510](https://vuepressdocs.oss-cn-hangzhou.aliyuncs.com/docsimages/202210041808538.png)
+
+
+
+登录界面如下，输入开发商客服提供的账号和密码(默认密码123)，点击`登录`按钮。
+
+![image-20221004180926770](https://vuepressdocs.oss-cn-hangzhou.aliyuncs.com/docsimages/202210041809831.png)
 
 登录成功之后，签到软件操作主界面如下：
 
-![Snipaste_2022-09-20_17-46-23](https://vuepressdocs.oss-cn-hangzhou.aliyuncs.com/docsimages/202209201750506.jpg)
+![image-20221004181054290](https://vuepressdocs.oss-cn-hangzhou.aliyuncs.com/docsimages/202210041810362.png)
 
 
 
