@@ -26,10 +26,11 @@ const sidebar =  {
     {
       text: '高级功能',
       collapsible: true,
-      collapsed: true,
+      //collapsed: true,
       items:[
         { text: '会员等级设置', link: '/guide/memberlevel' },
         { text: '兑换礼品设置', link: '/guide/giftset' },
+        { text: '手工会员积分添加', link: '/guide/handpoint' },
         { text: '系统参数设置', link: '/guide/sysset' },
         { text: '小票打印格式设置', link: '/guide/printset' }
       ]

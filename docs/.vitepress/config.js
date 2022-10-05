@@ -2,8 +2,8 @@ const nav = require("./nav.js");
 const sidebar = require("./sidebar.js");
 
 export default {
-    title: '越客软件 官方文档',
-    description: '操作指南(越客会员积分签到管理软件)', 
+    title: '越客软件 操作指南',
+    description: '越客会员积分签到管理软件-操作指南', 
     base: '/pointsign/', 
     lastUpdated: true,
     outline: 'deep', // 右侧大纲标题层级    
@@ -29,7 +29,7 @@ export default {
         backToHome:'返回首页',
 
         editLink: {
-            pattern: 'https://github.com/yuekesoft/pointsigndocs/edit/main/docs/:path',
+            pattern: 'https://github.com/yuekesoft/pointsigndocs/edit/master/docs/:path',
             text: '编辑此页面'
           },
 
