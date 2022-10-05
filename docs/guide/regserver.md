@@ -2,21 +2,21 @@
 
 ::: tip 提示
 
-*如果购买了软件并且租用了我公司的服务器，即为网络版用户，请移步[越客签到管理软件(网络版)操作指南](/netsign/start)*。
+*如果购买了软件并且租用了我公司的服务器，缴了年费，即为网络版用户，请跳过此步骤*。
 
 :::
 
-1. 右键点击桌面`越客二维码签到管理软件(正式版)`图标，弹窗如图，点击【打开文件所在的位置】。
+1. 右键点击桌面`越客会员积分签到管理软件(正式版)`图标，弹窗如图，点击【打开文件所在的位置】。
 
-![1](https://vuepressdocs.oss-cn-hangzhou.aliyuncs.com/docsimages/202209291121405.png)
+![image-20221005145222516](https://vuepressdocs.oss-cn-hangzhou.aliyuncs.com/docsimages/202210051452583.png)
 
-2. 打开之后，点击`越客会议签到管理软件(正式版)`文件夹。
+2. 打开之后，点击`越客会员积分签到管理软件(正式版)`文件夹。
 
-![2](https://vuepressdocs.oss-cn-hangzhou.aliyuncs.com/docsimages/202209291121541.png)
+![image-20221005145404555](https://vuepressdocs.oss-cn-hangzhou.aliyuncs.com/docsimages/202210051454640.png)
 
 3. 打开`burrocontrol.exe`服务端管理器。
 
-![3](https://vuepressdocs.oss-cn-hangzhou.aliyuncs.com/docsimages/202209291122868.png)
+![image-20221005145532544](https://vuepressdocs.oss-cn-hangzhou.aliyuncs.com/docsimages/202210051455635.png)
 
 4. 输入登录密码：yueke4007853，点击确定打开。
 
@@ -66,11 +66,11 @@
 
 1. 右键桌面`越客签到管理软件(正式版)`图标，打开minisql2000。
 
-![13](https://vuepressdocs.oss-cn-hangzhou.aliyuncs.com/docsimages/202209291440476.png)
+![image-20221005145715424](https://vuepressdocs.oss-cn-hangzhou.aliyuncs.com/docsimages/202210051457516.png)
 
 2. 在`Sql2k.exe`上面点击右键，点击`属性`。
 
-![14](https://vuepressdocs.oss-cn-hangzhou.aliyuncs.com/docsimages/202209291441977.png)
+![image-20221005145841975](https://vuepressdocs.oss-cn-hangzhou.aliyuncs.com/docsimages/202210051458096.png)
 
 3. 勾选`以管理员身份运行此程序`，再点击确定完成。
 

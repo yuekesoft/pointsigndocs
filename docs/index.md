@@ -7,7 +7,7 @@ hero:
   tagline: 越客会员积分签到管理软件操作指南
   actions:
     - theme: brand
-      text: 单机版
+      text: 快速上手
       link: /guide/start
     - theme: alt
       text: 软件介绍
