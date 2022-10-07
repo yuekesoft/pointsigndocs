@@ -5,6 +5,9 @@ hero:
   name: 越客软件 官方文档
   text: 
   tagline: 越客会员积分签到管理软件操作指南
+  image:
+    src: /images/yklogo.png
+    alt: VitePress  
   actions:
     - theme: brand
       text: 快速上手

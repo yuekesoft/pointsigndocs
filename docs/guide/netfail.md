@@ -8,7 +8,7 @@
 
 ![image-20221006181002549](https://vuepressdocs.oss-cn-hangzhou.aliyuncs.com/docsimages/202210061810768.png)
 
-2. 打开软件的安装目录`yueke`文件夹，向上一级找到`越客会员积分签到管理软件(正式版)文件夹。`
+2. 打开软件的安装目录`yueke`文件夹，向上一级找到`越客会员积分签到管理软件(正式版)`文件夹。
 
 ![image-20221006181554042](https://vuepressdocs.oss-cn-hangzhou.aliyuncs.com/docsimages/202210061815138.png)
 
@@ -20,7 +20,7 @@
 
 ![image-20221006182122615](https://vuepressdocs.oss-cn-hangzhou.aliyuncs.com/docsimages/202210061821679.png)
 
-5. 打开服务端界面，点击右下角`启动`按钮。
+5. 打开服务端界面，点击左下角`启动`按钮。
 
 ![img](https://vuepressdocs.oss-cn-hangzhou.aliyuncs.com/docsimages/202209301518497.jpg)
 
